@@ -185,30 +185,6 @@ graph TD
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to **SecurImage Pro**.
-
-### 📌 Contribution Guidelines
-
-1. Fork the repository
-2. Create a new feature branch
-
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes with clear messages
-4. Push the branch
-
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Open a Pull Request detailing your feature or fix
-
-> Please follow **PEP 8 coding guidelines** and include clear docstrings and inline comments.
-
----
-
 ## 📜 License
 
 **SecurImage Pro** is released under the **GNU General Public License v3.0**.
