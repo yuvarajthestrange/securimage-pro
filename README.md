@@ -3,25 +3,7 @@
 
 # 📷 SecurImage Pro — Advanced Steganography Suite
 
-![SecurImage Pro Banner](https://via.placeholder.com/1200x400?text=SecurImage+Pro+-+Advanced+Steganography+Tool)
-
 **SecurImage Pro** is a professional-grade steganography application enabling secure embedding of sensitive data within digital images using advanced cryptographic protocols and robust data-hiding algorithms. Designed for cybersecurity professionals, privacy advocates, and digital forensics experts, this suite combines **data encryption, multi-image support, steganalysis detection tools**, and **batch processing workflows** in a clean, modern user interface.
-
----
-
-## 📑 Table of Contents
-
-* [Key Features](#key-features)
-* [Installation](#installation)
-* [Usage Guide](#usage-guide)
-* [Technical Architecture](#technical-architecture)
-* [Screenshots](#screenshots)
-* [Security Features](#security-features)
-* [Performance Benchmarks](#performance-benchmarks)
-* [Contributing](#contributing)
-* [License](#license)
-* [Acknowledgements](#acknowledgements)
-* [Support](#support)
 
 ---
 
@@ -175,7 +157,7 @@ graph TD
 
 | Embed Tab                                                        | Extract Tab                                                          | Multi-Image                                                                  | Steganalysis                                                                   |
 | :--------------------------------------------------------------- | :------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| ![Embed Tab](https://via.placeholder.com/800x500?text=Embed+Tab) | ![Extract Tab](https://via.placeholder.com/800x500?text=Extract+Tab) | ![Multi-Image Tab](https://via.placeholder.com/800x500?text=Multi-Image+Tab) | ![Steganalysis Tab](https://via.placeholder.com/800x500?text=Steganalysis+Tab) |
+| ![Embed Tab](https://github.com/yuvarajthestrange/securimage-pro/blob/master/Embed%20Tab.png) | ![Extract Tab](https://github.com/yuvarajthestrange/securimage-pro/blob/master/Extract%20Tab.png) | ![Multi-Image Tab](https://github.com/yuvarajthestrange/securimage-pro/blob/master/Multi-Image%20Tab.png) | ![Steganalysis Tab](https://github.com/yuvarajthestrange/securimage-pro/blob/master/Steganalysis%20Tab.png) |
 
 ---
 
